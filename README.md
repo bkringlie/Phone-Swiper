@@ -21,11 +21,20 @@ Phone Swiper is an innovative project that utilizes two lidar sensors, two servo
 2. Connect the lidar sensors to the Arduino Nano according to the schematic provided in the `hardware` folder.
 3. Mount the stylus pen to one of the servo arms.
 
-### Phone Swiper GIF
-![Phone Swiper](images/Phone-Swiper.gif)
+## Visual Aids
 
-### Breadboard Layout
-![Breadboard Layout](images/Phone-Swiper_Breadboard.jpg)
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/Phone-Swiper.gif" alt="Phone Swiper in Action" height="400" /><br />
+      <i>Phone Swiper in action</i>
+    </td>
+    <td align="center">
+      <img src="images/Phone-Swiper_Breadboard.jpg" alt="Breadboard Layout" height="400" /><br />
+      <i>Breadboard layout</i>
+    </td>
+  </tr>
+</table>
 
 ## Usage
 1. Upload the `Phone Swiper - Spring 2022.ino` sketch to your Arduino Nano using the Arduino IDE.
